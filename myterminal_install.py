@@ -62,6 +62,8 @@ def main():
 
 if __name__ == '__main__':
 	main()
+	with open(f"{os.path.expanduser}/mtpaths.txt", "a+") as file:
+		file.write(installation_path)
 	os.chdir(installation_path)
 	os.mkdir(".mt")
 	os.mkdir(".mt/home")
