@@ -1,2 +1,2 @@
-# this project is still under development and needs a lot of work. Please, come back later.
-This project is the linux replica of the `myTerminal` project.
+# This is an old repository
+- this is an old repository, to find the new one, go to https://www.github.com/PCPPTech/myTerminalLNX
